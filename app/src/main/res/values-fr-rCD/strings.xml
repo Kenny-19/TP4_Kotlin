@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TP2Kotlin</string>
+    <string name="si_20201751">SI/20201751</string>
+
+    <string name="nom_tshibangu_ntumba_kenny">"Nom: "</string>
+
+    <string name="filiere_genie_logiciel">filiere : ingenierie logiciel</string>
+    <string name="mobile_243_818_854_3990"> Numero : +243 818 543 990</string>
+
+    <string name="kennytshibangu9_gmail_com">kennytshibangu9@gmail.com</string>
+    <string name="cour_de_programation_mobile">Cours de progrmation Mobile</string>
+
+</resources>

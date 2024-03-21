@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">TP2Kotlin</string>
+    <string name="si_20201751" translatable="false">SI/20201751</string>
+    <string name="nom_tshibangu_ntumba_kenny">Name : Tshibangu Ntumba Kenny</string>
+
+    <string name="kennytshibangu9_gmail_com">kennytshibangu9@gmail.com</string>
+    <string name="cour_de_programation_mobile">Mobile Programming course</string>
+    <string name="filiere_genie_logiciel">Sector : Software engineering</string>
+    <string name="mobile_243_818_854_3990">Mobile : +243 818 543 990</string>
+    <string name="promotion_master_1">Promotion :Master 1</string>
+</resources>
